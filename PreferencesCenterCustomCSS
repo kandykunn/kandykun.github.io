@@ -1,0 +1,79 @@
+<style>
+
+.nav-link {
+    padding: .4rem .7rem;
+}
+
+.a-form-label {
+    margin-top: 0.2rem;
+    font-size: small;
+}
+
+.font-weight-500 {
+    font-weight: 500;
+}
+
+label {
+    margin-bottom: 0.3rem;
+}
+
+.hidden {
+    display: none !important;
+}
+
+.btn-danger {
+    color: #fff;
+    background-color: #008b49!important;
+    border-color: #008b49!important;
+}
+
+.btn-group {
+    margin-left: -1.25rem;
+}
+
+.btn-group .btn {
+    background-color: white;
+    border-color: darkgray;
+    border-style: solid;
+}
+
+.strip {
+    content: '';
+    position: absolute;
+    left: 0;
+    background: #008b49!important;
+    height: 10px;
+    width: 100%;
+}
+
+.multiselect-container {
+    width: 300px;
+}
+
+.pageContainer {
+    max-width: 900px !important;
+}
+
+.multiselect-native-select a {
+    color: #212529;
+}
+
+.nav-tabs {
+   background: #565555 !important;
+}
+
+.nav-link.active {
+    background-color: #8a8888 !important;
+    color: white !important;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+.checkboxSize {
+    width: 30px;
+    height: 20px;
+}
+
+</style>
